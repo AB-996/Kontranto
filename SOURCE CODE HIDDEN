@@ -3,3 +3,4 @@ Create board
 Make starting player restrictions
 Add figures and make basic click-and-point interaction with player
 Make functionalty for players to set figures on board
+Added some logic for first round (restricted round)
