@@ -8,3 +8,4 @@ Added coloring of all fields to grey after first round
 Make round and moves counter with appropriate restrictions
 Added HTML attributes render in JS
 Added black and white players that can put figures on the board with restrictions fot the first round
+Started implementation of every move for figures on board
