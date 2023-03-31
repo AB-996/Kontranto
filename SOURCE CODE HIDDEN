@@ -5,3 +5,4 @@ Add figures and make basic click-and-point interaction with player
 Make functionalty for players to set figures on board
 Added some logic for first round (restricted round)
 Added coloring of all fields to grey after first round
+Make round and moves counter with appropriate restrictions
