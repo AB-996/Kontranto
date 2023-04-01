@@ -13,3 +13,4 @@ Added logic for figures to move up,down,left,right,diagonal on board
 Added start meni with options : start game, join game and rules
 Backend project setup
 Created simple logic for real time communication
+Broadcast message to all players that are connected to server
