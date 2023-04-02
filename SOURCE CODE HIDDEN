@@ -15,3 +15,4 @@ Backend project setup
 Created simple logic for real time communication
 Broadcast message to all players that are connected to server
 Changed styles of main menu
+Players can now join to the same game
